@@ -14,7 +14,7 @@ import {
 import './App.css';
 import Header from './Components/Header';
 import Gallery from './Components/Gallery';
-import NotFound from './Components/NotFound';
+import fourOfour from './Components/404';
 
 import axios from 'axios';
 
@@ -102,7 +102,7 @@ class App extends Component {
             <Route path="/baseball" render={ () => <Gallery data={this.state.images.baseball} />} />
             <Route path="/football" render={ () => <Gallery data={this.state.images.football} />} />
             <Route path="/search" render={ () => <Gallery data={this.state.images.search} />} />
-            <Route component={NotFound} />
+            <Route component={fourOfour} />
         </Switch>
         </div>
       </BrowserRouter>)
