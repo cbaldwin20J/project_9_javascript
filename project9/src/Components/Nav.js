@@ -1,15 +1,15 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-const Nav = (props) => {
+const Nav = () => {
 	
 
 	return(
 		<nav class="main-nav">
 		  <ul>
-		    <li><NavLink onClick={() => props.onSearch('basketball')} to="/basketball">Basketball</NavLink></li>
-		    <li><NavLink onClick={() => props.onSearch('baseball')} to="/baseball">Baseball</NavLink></li>
-		    <li><NavLink onClick={() => props.onSearch('football')} to="/football">Football</NavLink></li>
+		    <li><NavLink to="/basketball">Basketball</NavLink></li>
+		    <li><NavLink to="/baseball">Baseball</NavLink></li>
+		    <li><NavLink to="/football">Football</NavLink></li>
 		  </ul>
 		</nav>
 		)

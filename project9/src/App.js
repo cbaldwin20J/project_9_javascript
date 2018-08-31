@@ -24,30 +24,46 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      images: [],
+      images: {
+        basketball:[],
+        baseball:[],
+        football:[],
+        search:[]
+      },
       loading: true
     };
   }
 
   componentDidMount() {
     // calls the function below
-    this.performSearch();
+    this.performSearch('basketball');
+    this.performSearch('baseball');
+    this.performSearch('football');
   }
   
   // calls the api. If none selected for 'query' then it will display 'cats' gifs 
   // by default.
-  performSearch = (query = 'basketball') => {
-    // 'axios' is like 'Fetch', but better. Need to insall it with 'npm install'
-    // The 'query' will go in the url and tell the api what specifically to retrieve.
+  performSearch = (query, search=false) => {
     axios.get(`https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=${apiKey}&tags=${query}&per_page=24&format=json&nojsoncallback=1`)
       .then(response => {
-        this.setState({
-          // the gifs api sends back a dictionary like {'data': lskjd}, that's why we put 
-          // 'data' twice as 'data.data'.
-          images: response.data.photos.photo,
-          // no need anymore for a loading screen.
+        if (search){
+          this.setState({
+            images: {
+              ...this.state.images,
+              search: response.data.photos.photo,
+            },
+            loading: false
+          });
+        }else {
+          this.setState({
+          images: {
+            ...this.state.images,
+            [query]: response.data.photos.photo,
+          },
           loading: false
         });
+        }
+        
       })
       .catch(error => {
         console.log('Error fetching and parsing data', error);
@@ -62,10 +78,11 @@ class App extends Component {
         
         
            <Switch>
-            <Route exact path="/" render={ () => <Gallery data={this.state.images} />} />
-            <Route path="/basketball" render={ () => <Gallery data={this.state.images} />} />
-            <Route path="/baseball" render={ () => <Gallery data={this.state.images} />} />
-            <Route path="/football" render={ () => <Gallery data={this.state.images} />} />
+            <Route exact path="/" render={ () => <Gallery data={this.state.images.basketball} />} />
+            <Route path="/basketball" render={ () => <Gallery data={this.state.images.basketball} />} />
+            <Route path="/baseball" render={ () => <Gallery data={this.state.images.baseball} />} />
+            <Route path="/football" render={ () => <Gallery data={this.state.images.football} />} />
+            <Route path="/search" render={ () => <Gallery data={this.state.images.search} />} />
             <Route component={NotFound} />
         </Switch>
         </div>
