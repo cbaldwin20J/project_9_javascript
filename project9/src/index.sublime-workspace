@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"shirt_d",
+				"shirt_detail_urls"
+			],
+			[
+				"hidd",
+				"hiddenInfoHTML"
+			],
+			[
+				"check",
+				"checkDOMChange"
+			],
+			[
+				"birthday",
+				"birthday_refined"
+			],
+			[
+				"resu",
+				"resultsArray"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"getRan",
+				"getRandomColor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_three_routers/course-directory_final/src/components/Featured.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_three_routers/course-directory_final/src/components/Teachers.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_three_routers/course-directory_final/src/components/Home.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_three_routers/course-directory_final/src/components/Header.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/MainContent/index.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/App.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/MainContent/GuestList/index.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/MainContent/GuestList/GuestName.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/MainContent/GuestList/Guest.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/index.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/MainContent/Counter.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/MainContent/ConfirmedFilter.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/Header/GuestInputForm.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_two/rsvp_final/src/Header/index.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_7/.gitignore",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_6/data/2018-07-10.csv",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_6/data/2018-7-10.csv",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_8/package.json",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_8/erase_notes.txt",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_8/.gitignore",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/node.js_examples/express_example_one/app.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/node.js_examples/express_example_one/routes/index.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/node.js_examples/express_example_one/routes/cards.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_6/data/2018-7-3.csv",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_6/output.csv",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_6/output.txt",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_6/package.json",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_6/app.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/node.js_examples/example_two/api.json",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/erase/profile.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/erase/app.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/erase/erase.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5_revised/index.html",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5_revised/jquery-lightbox-by-leandrovieira/js/jquery.lightbox-0.5.wenbert.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5/jquery_lightbox_plugin/my_modifications.txt",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5/jquery_lightbox_plugin/js/jquery.lightbox-0.5.wenbert.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5/README.md",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5/jquery_lightbox_plugin/css/jquery.lightbox-0.5.css",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5/js/plugin_setInterface_change.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5/js/script.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5/css/styles.css",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_5/jquery-lightbox-by-leandrovieira/js/jquery.lightbox-0.5.wenbert.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_3/js/script.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_2/css/design.css",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_2/js/script.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_1/erase.js",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/templates/registration/signup.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/templates/registration/password_reset_form.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/templates/registration/password_reset_done.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/templates/registration/password_reset_confirm.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/templates/registration/password_reset_complete.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/templates/registration/login.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/p_12/urls.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/views.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/urls.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/tests.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/applications.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/index.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/layout.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/notification_icon.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/notifications.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/profile.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/profile_edit.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/project.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/project_edit.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/project_new.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templates/search.html",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/templatetags/notifications.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/forms.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/social/models.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/p_12/deploy.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/p_12/deploy_settings/__init__.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/Procfile",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/p_12/settings.py",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/runtime.txt",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/requirements.txt",
+		"/C/Users/Admin/Documents/chris_python_stuff/python_website/p_12/requirements.txt",
+		"/C/Users/Admin/Documents/project_12_heroku/p_12/p_12/settings.py",
+		"/C/Users/Admin/Documents/project_12_heroku/p_12/static/.keep",
+		"/C/Users/Admin/Documents/project_12_heroku/runtime.txt"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

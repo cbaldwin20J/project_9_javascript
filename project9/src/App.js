@@ -60,15 +60,10 @@ class App extends Component {
       <BrowserRouter>
         <Header performSearch={this.performSearch} />
         
-        {
-          (this.state.loading)
-           ? <p>Loading...</p>
-           : 
+        
            <Switch>
             <Route exact path="/" render={ () => <Gallery data={this.state.images} />} />
             <Route component={NotFound} />
-        }       
-          
         </Switch>
       </BrowserRouter>
     );
@@ -77,25 +72,3 @@ class App extends Component {
 
 export default App;
 
-render() { 
-  return (
-    <div>
-      <div className="main-header">
-        <div className="inner">
-          <h1 className="main-title">GifSearch</h1>
-          <SearchForm onSearch={this.performSearch} />      
-        </div>   
-      </div>    
-      <div className="main-content">
-        // if 'this.state.loading' is true, then show '<p>Loading...</p>', otherwise
-        // run '<GifList>'.
-        {
-          (this.state.loading)
-           ? <p>Loading...</p>
-           : <GifList data={this.state.gifs} />
-        }       
-        // 'GifList' returns a <ul> with the <li>s.   
-      </div>
-    </div>
-  );
-}
