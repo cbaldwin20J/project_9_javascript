@@ -36,7 +36,7 @@ class App extends Component {
   
   // calls the api. If none selected for 'query' then it will display 'cats' gifs 
   // by default.
-  performSearch = (query = 'cats') => {
+  performSearch = (query = 'basketball') => {
     // 'axios' is like 'Fetch', but better. Need to insall it with 'npm install'
     // The 'query' will go in the url and tell the api what specifically to retrieve.
     axios.get(`https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=${apiKey}&tags=${query}&per_page=24&format=json&nojsoncallback=1`)
@@ -63,6 +63,9 @@ class App extends Component {
         
            <Switch>
             <Route exact path="/" render={ () => <Gallery data={this.state.images} />} />
+            <Route path="/basketball" render={ () => <Gallery data={this.state.images} />} />
+            <Route path="/baseball" render={ () => <Gallery data={this.state.images} />} />
+            <Route path="/football" render={ () => <Gallery data={this.state.images} />} />
             <Route component={NotFound} />
         </Switch>
         </div>
