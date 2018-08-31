@@ -14,7 +14,7 @@ const Gallery = (props) => {
 	}
 	
 	return (
-		<div class="photo-container">
+		<div className="photo-container">
 		    <h2>Results</h2>
 		    <ul>
 			    {images}

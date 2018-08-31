@@ -8,7 +8,7 @@ import Nav from './Nav';
 const Header = (props) => {
 	return(
 		<div>	
-	  		<Form onSearch={props.performSearch} />
+	  		<Form onSearch={props.performSearch} loading={props.loading} />
 	  		<Nav />
 	  	</div>
   	);

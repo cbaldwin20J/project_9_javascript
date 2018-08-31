@@ -39,6 +39,8 @@ class App extends Component {
     this.performSearch('basketball');
     this.performSearch('baseball');
     this.performSearch('football');
+
+
   }
   
   // calls the api. If none selected for 'query' then it will display 'cats' gifs 
@@ -70,11 +72,28 @@ class App extends Component {
       });    
   }
  
+  isLoading = () => {
+    this.setState({
+      images:{
+        ...this.state.images,
+      },
+      loading: true
+    })
+  }
+  
+
   render() { 
     return (
-      <BrowserRouter>
-        <div>
-        <Header performSearch={this.performSearch} />
+      <div>
+      {
+        (this.state.loading)
+         ? <p>Loading...</p>
+         : (
+
+        <BrowserRouter>
+          <div>
+          <Header performSearch={this.performSearch} loading={this.isLoading} />
+          
         
         
            <Switch>
@@ -86,7 +105,10 @@ class App extends Component {
             <Route component={NotFound} />
         </Switch>
         </div>
-      </BrowserRouter>
+      </BrowserRouter>)
+      } 
+      </div>
+      
     );
   }
 }
