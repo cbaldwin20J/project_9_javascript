@@ -2,8 +2,8 @@ module.exports = {
     "env": {
         "browser": true
     },
-    "extends": "eslint:recommended",
     "parser": "babel-eslint",
+    "extends": "eslint:recommended",
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
@@ -21,7 +21,7 @@ module.exports = {
         ],
         "linebreak-style": [
             "error",
-            "windows"
+            "unix"
         ],
         "quotes": [
             "error",

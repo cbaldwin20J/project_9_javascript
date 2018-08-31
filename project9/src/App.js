@@ -11,7 +11,6 @@ import {
   Switch
 } from 'react-router-dom';
 
-import logo from './logo.svg';
 import './App.css';
 import Header from './Components/Header';
 import Gallery from './Components/Gallery';
@@ -54,10 +53,11 @@ class App extends Component {
         console.log('Error fetching and parsing data', error);
       });    
   }
-
+ 
   render() { 
     return (
       <BrowserRouter>
+        <div>
         <Header performSearch={this.performSearch} />
         
         
@@ -65,6 +65,7 @@ class App extends Component {
             <Route exact path="/" render={ () => <Gallery data={this.state.images} />} />
             <Route component={NotFound} />
         </Switch>
+        </div>
       </BrowserRouter>
     );
   }
