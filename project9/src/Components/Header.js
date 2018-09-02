@@ -1,10 +1,9 @@
 import React from 'react';
 
-
-
 import Form from './Form';
 import Nav from './Nav';
 
+// displays the search input field, and the default image buttons "basketball" etc.
 const Header = (props) => {
 	return(
 		<div>	
@@ -12,9 +11,6 @@ const Header = (props) => {
 	  		<Nav />
 	  	</div>
   	);
-}
-
+};
 
 export default Header;
-
-// split this up into 'Form' and 'Nav' components 

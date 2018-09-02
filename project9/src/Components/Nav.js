@@ -1,9 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
+// the three default image buttons
 const Nav = () => {
-	
-
 	return(
 		<nav className="main-nav">
 		  <ul>
@@ -12,9 +11,7 @@ const Nav = () => {
 		    <li><NavLink to="/football">Football</NavLink></li>
 		  </ul>
 		</nav>
-		)
-}
-	
-
+		);
+};
 
 export default Nav;

@@ -1,5 +1,6 @@
 import React from 'react';
 
+// displays a 404 page.
 const fourOfour = (props) => {
 	return (
 		<div>
@@ -8,6 +9,5 @@ const fourOfour = (props) => {
 		</div>
 	);
 }
-
 
 export default fourOfour;

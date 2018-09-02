@@ -1,6 +1,6 @@
 import React from 'react';
 
-
+// will set the 'img src' for each individual photo.
 const GalleryItem = (props) => {
 	let farmId = props.image.farm;
 	let serverId = props.image.server;

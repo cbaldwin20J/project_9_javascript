@@ -4,15 +4,18 @@ import {
 } from 'react-router-dom'
 
 class Form extends Component {
-  
   state = {
     searchText: ''
   }
- 
+
+  // will set the state with whatever is entered in the search input
   onSearchChange = e => {
     this.setState({ searchText: e.target.value });
   }
   
+  // prevents page from loading, displays loading sign, gets the api with 
+  // the keywords entered in the search input, alters the url, resets
+  // search input to blank.
   handleSubmit = e => {
     e.preventDefault();
     this.props.loading();
@@ -21,6 +24,7 @@ class Form extends Component {
     e.currentTarget.reset();
   }
   
+  // renders a search input form.
   render() {  
     return (
       <form className="search-form" onSubmit={this.handleSubmit} >
