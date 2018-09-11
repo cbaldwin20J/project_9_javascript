@@ -36,64 +36,10 @@
 	"buffers":
 	[
 		{
-			"file": "src/Components/Nav.js",
-			"settings":
-			{
-				"buffer_size": 368,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/Components/NotFound.js",
-			"settings":
-			{
-				"buffer_size": 242,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/Components/Header.js",
-			"settings":
-			{
-				"buffer_size": 306,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/Components/Form.js",
-			"settings":
-			{
-				"buffer_size": 1289,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/App.js",
-			"settings":
-			{
-				"buffer_size": 2953,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "src/Components/Gallery.js",
 			"settings":
 			{
-				"buffer_size": 446,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/Components/NoImages.js",
-			"settings":
-			{
-				"buffer_size": 153,
+				"buffer_size": 523,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -102,9 +48,36 @@
 			"file": "src/Components/Gallery_item.js",
 			"settings":
 			{
-				"buffer_size": 368,
+				"buffer_size": 420,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Components/Header.js",
+			"settings":
+			{
+				"buffer_size": 337,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Components/Nav.js",
+			"settings":
+			{
+				"buffer_size": 399,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 142,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -151,14 +124,19 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/Components/404.js",
-		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/package.json",
 		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/Components/NotFound.js",
 		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/Components/NoImages.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/Components/Form.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/Components/Nav.js",
 		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/Components/Header.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/Components/Gallery_item.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/App.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/index.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/Components/Gallery.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/Components/404.js",
+		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/package.json",
 		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/.eslintrc.js",
 		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/node_modules/babel-register/node_modules/core-js/client/shim.js",
-		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/src/App.js",
 		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/project9.sublime-project",
 		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/project_9/project9/.sublime-project",
 		"/C/Users/Admin/Documents/teamtreehouse_javascript_projects/javascript_examples/react_example_three_routers/course-directory_final/src/components/Featured.js",
@@ -244,7 +222,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -259,6 +237,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"notfound",
 			"match your search",
 			"class",
 			"Gallery_item",
@@ -280,61 +259,61 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/Components/Nav.js",
+					"file": "src/Components/Gallery.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 368,
+						"buffer_size": 523,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								111,
-								116
+								497,
+								497
 							]
 						],
 						"settings":
 						{
-							"SL.379.region_keys":
+							"SL.31.region_keys":
 							[
-								"SL.eslint.Highlights.|e20842df83a264dc4e2637e30cde518ea155c39cb0eb62fb85f48c77d2ad6c8d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|74663ab5fda5b5edff981545aceaa756d1e9abbef3fe124724ab1d74216aa71e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|773c77715de17be084311bc9a4a62c07446f113d4b8d2810ca97eb90a1dd477f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e810a0f5876fe2c4b5a7f0fe1536b9101531ff1caded35054ce8656f76dc0e78|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|9c5a7b01c402a060acc2129d2136c3976a086d05520c8686e6f97c4522712e10|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|bdb3f8c442fba1bedf387f8f18f4b2ce8c248a32e95058c96821503b3329b474|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|30ba16c2631ce1579300c63a4865592c145ff1b8bc73b09b49c9ace9306af62b|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b24132f02599b02654bb07a43fd03629db289d5b0916d4bb51e00f420fa0583f|region.redish markup.error.sublime_linter|32",
 								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|d3acb403fced505de4f582f50dfb8709952f4b45fa6ba37bad098134ecf1695d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|1b1c90534e1ec4ca41df5d2212855d6fe33c1451e18380c0b8d4d66aa854921f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|be0c858ce8c31c5db31f7d9ab9efb0dfa736507ced1537641c0a0e35ee7a14b9|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|5b46060b74012f9d64be97fdd3b153f83c236f1d3f5d802bfda5544fca1fa289|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|5151a312af128e2690dad6e149bba748e3637f235567b9ef5984dee7fde5e5f6|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|a4fb3c6417dbab46bbbc66410a7d21122a9f6704da5ca3797690285ba8308509|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a83d62ecd4789dd9c858ed90acbd7fa968a5bd649e4fcc63c3656103dc090522|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b494362eed59c68f1dc07248e6dcb7dbb2303eeb8c688c9d5325f691bd127f87|region.redish markup.error.sublime_linter|32",
 								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|b434baac578b0c6fbad0eb6889e6743ca0cdfbd6f39614d54a807d33a8458d3e|region.redish markup.error.sublime_linter|32"
+								"SL.eslint.Highlights.|18a41d663d8a61b450292086153b80d43a1b1ce6f758dc219224106303a33dd7|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|d4638cc0382207394f13bf9d93beda8e5035c6e42f7daf5582560e84e097cd14|region.redish markup.error.sublime_linter|32"
 							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "src/Components/NotFound.js",
+					"file": "src/Components/Gallery_item.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 242,
+						"buffer_size": 420,
 						"regions":
 						{
 						},
@@ -347,23 +326,25 @@
 						],
 						"settings":
 						{
-							"SL.415.region_keys":
+							"SL.32.region_keys":
 							[
-								"sublime_linter.protected_regions",
-								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|9c0006477f6e697db5422ffb36079fd78056a1f35745434ed4f42af8cb968984|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|9ad554b2e8a7f68fe7744ea2e6a957adb0ff67ea90c5102adc8bd460e76357f8|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|773c77715de17be084311bc9a4a62c07446f113d4b8d2810ca97eb90a1dd477f|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d3acb403fced505de4f582f50dfb8709952f4b45fa6ba37bad098134ecf1695d|region.redish markup.error.sublime_linter|32",
 								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|a299f53d13117d88d56816601b39da269a6866b7ebf3cc44da22baa36f7a689c|region.redish markup.error.sublime_linter|32"
+								"SL.eslint.Highlights.|74663ab5fda5b5edff981545aceaa756d1e9abbef3fe124724ab1d74216aa71e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|e785f39d324b6bee3d360bb6fab40c3eb974c976696ed301eb5a1cc8778a3f99|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32"
 							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -372,34 +353,33 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 306,
+						"buffer_size": 337,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								194,
-								194
+								312,
+								312
 							]
 						],
 						"settings":
 						{
-							"SL.380.region_keys":
+							"SL.33.region_keys":
 							[
-								"SL.eslint.Highlights.|74663ab5fda5b5edff981545aceaa756d1e9abbef3fe124724ab1d74216aa71e|region.redish markup.error.sublime_linter|32",
 								"SL.eslint.Highlights.|773c77715de17be084311bc9a4a62c07446f113d4b8d2810ca97eb90a1dd477f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|d609ba14bd394e809abf59abbe81788b3ff7b66702ba6d21cfde21e7066c3798|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|eda27dcb6483915dedfe8010047f4eab5a99f918baf89246ecb9413de4fc028d|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
-								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|4e813375a0a98b01d031418ea9d216304d82d073b48322effb6cbca60486f945|region.redish markup.error.sublime_linter|32",
 								"SL.eslint.Highlights.|d3acb403fced505de4f582f50dfb8709952f4b45fa6ba37bad098134ecf1695d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e785f39d324b6bee3d360bb6fab40c3eb974c976696ed301eb5a1cc8778a3f99|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e92883cec6760bdb56134e91e45e35d770be2a325fdbfe26e31836e6db8cfa80|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|f7454173718e967b4bceae4d6a6bd0e466fdad49d1104d9ea5a7305c873e622b|region.redish markup.error.sublime_linter|32",
 								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32"
+								"SL.eslint.Highlights.|74663ab5fda5b5edff981545aceaa756d1e9abbef3fe124724ab1d74216aa71e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c7f3afacc79dc131b0c96415e60d5ac604406cb2ecfc6c8cbac8932b4b0e4290|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|0e4ca4d40b8a0951fd02519e8ffa88563fbf1fd6383a71c7201d63c848d2b8f0|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|7fb297342bcae6fc94f1160e980029bb63c8f80470593db1a1c28c41c6728d17|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|82854a44bbdd404cea6e8c9d4b93f9d089a5fe042e6a9ca1ea4c2cd55da046ff|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|5151a312af128e2690dad6e149bba748e3637f235567b9ef5984dee7fde5e5f6|region.redish markup.error.sublime_linter|32"
 							],
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
@@ -412,272 +392,40 @@
 				},
 				{
 					"buffer": 3,
-					"file": "src/Components/Form.js",
+					"file": "src/Components/Nav.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1289,
+						"buffer_size": 399,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1254,
-								1254
+								379,
+								379
 							]
 						],
 						"settings":
 						{
-							"SL.381.region_keys":
+							"SL.34.region_keys":
 							[
-								"SL.eslint.Highlights.|67d50e38344c284c85d498d264ee69dad56f5a77f7b8d60411ed4f26f1dbdab3|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|0abfd26ccd0b6bf79ba2761eea9a98790a276e3b93adca7f2b1e6ec38f4f12a2|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|6a0a138b592bc259889f6fe4128ca3fee600239a45348acef4b630ef2fa9202e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|c8ad2ac86113e9cf8e195574fb5b0d1f0ac067d87e1c66cff0e97b3a8046e8f0|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|11990d98469b6eb44e6d4eba0de87bcae1915015dd85a180a3211e1add82b408|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|dd44a4472cef09663a10dc0232d5ce4ae4a6b1e17da718b11dfa06bd4d9a0737|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|eeabea18a13dbf93664b1baa729e76759144ece640d52859fbe092a111034de1|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|9895bb0294e61788b04ff675a9631ca09047a9814b00f1157d29121b600ef60e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|f5c9566920c8363cf3e638381910fd53aa4cf890b0f04232beaabf935793ca17|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|200992efb6d2bf3ad84d9ac601844629ddd4aa0701de7e2358c4fda4e87a6501|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|2602416751893ba4f32903943d0b874e0e3b1e055efdf7b8ccd4313b70b4dcfd|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|3fe795c26be184f8e874501a6fc8984d2f288eb6ae2efb108938abe748a9827f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|93b43b08bdc14cd26d61edd45a0814c753370a7000917a9a6590149cd7662fb2|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d3acb403fced505de4f582f50dfb8709952f4b45fa6ba37bad098134ecf1695d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|e810a0f5876fe2c4b5a7f0fe1536b9101531ff1caded35054ce8656f76dc0e78|region.redish markup.error.sublime_linter|32",
 								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|0756ad47cf1b16022c8b4ba0850870bff2210691cbab18f54e3ee57cd614cb20|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|5c91abe174785cd2faf1f276b1424de28325622c4c1e4af0367e083c7793a1e8|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|74663ab5fda5b5edff981545aceaa756d1e9abbef3fe124724ab1d74216aa71e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8a0acd7e4be2d2cb521822d370bdc137312a4443e655e94e2090c5d3a74722b8|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a299f53d13117d88d56816601b39da269a6866b7ebf3cc44da22baa36f7a689c|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|be0c858ce8c31c5db31f7d9ab9efb0dfa736507ced1537641c0a0e35ee7a14b9|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|1b1c90534e1ec4ca41df5d2212855d6fe33c1451e18380c0b8d4d66aa854921f|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
 								"sublime_linter.protected_regions",
-								"SL.eslint.Highlights.|a786612740fcb77810f2175b23e9f2d1d02169a0a6829e7605c6d16a06da9395|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|86c4c35a84070a72a76e7ec9632f9301a679c6177d1218f84573d01e6f4ddd1b|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|2f7e33e97dd4b1657bb224beab9e4853a527c4c397f3b3d31c0ddb6c14a6111f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|a2e3b2f435a99d1254ceade1c647d5add0719a3fa2a143a7a65b9a5126a00dfb|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|0f97ad84ee3c74f94c2b3ff5d60c23eb0157f2f419bb1775dfa2488234ff7527|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|5bcdb85e360aa2aa08e2c0e946316a0492d246314fd2aad93f0bd78c17932594|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|d81a1322526093b2f2af6980020ff397f3494aaedb2851a7361315c64ed5cda6|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|df0092e14f0c9f128b8b10cac2a5727a9719aa57f418a3340842e5f7c7b4fc8e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|d0d08eb5d83117da8da1e290a147f937d374df22556abdff23cc9fb0f7c0e62f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|c41f20d08af8ace565446c500385175529c2999554ded46397302b4ccff53eb9|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|776f4b8a7f6a91badc0fa4b3ec29ecf5266c8e1dd7bcd3a5150663f8361a0cbc|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|00088df7b396349b2f866d74d059252180e08495b3a693683819ba88b001cd65|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|a171111664149adc78d38dbaba5167469f2bb2ae1b0451312004e1f13c3e6505|region.redish markup.error.sublime_linter|32"
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|5151a312af128e2690dad6e149bba748e3637f235567b9ef5984dee7fde5e5f6|region.redish markup.error.sublime_linter|32"
 							],
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 315.333333333,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/App.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2953,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								492,
-								492
-							]
-						],
-						"settings":
-						{
-							"SL.357.region_keys":
-							[
-								"SL.eslint.Highlights.|379b819c6e14a3187e849cf4497492c49b8a62dcd1ec275640b4357578c97d48|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e75396f1ec018748f6a6d3ff37082ef29f71812abcb975c8f9fc06b1b3d3fd95|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|4e7d39b40debecb634604bb4c7a7631edf0728eeeff445ef86e43dc8f44915ff|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|fb19b816f1460d433b0c00915b0992bf9b989075f180bf8aed1c3b8ff1db126a|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|505e0f43d488b3b64736007f0b6c4b3202b509ab3c7a300ffcea9739d1b4c3e2|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|f1754a62f472b1731dc472fd5ebf322a9c50869b63882c871f918e85b9aeab81|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|2301312ba4823662f4c7adee9ab89f87c57148fd0da0c1f980c5df178ab039b4|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|6c5db474270d88c569a97324111b3e97f6ebc988ce474cedcd2fbdfcfabfecfc|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|f32eafc0394c7b17fe37f5f769c6649b70d14d926737d5c267bf3d22ad9032c4|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|c44a307636b65c84732e9e3f3576e4e3489ca2bedf5bfb5cee323968b4a34eeb|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|dcbaaa926ef957e1e47c76c266282100f57e4e5a66e88a5c77eec7f2a2c872e1|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|85b77e8974ecfa823f1be832317e23793d704eef345e07505395d64d11bb1a5f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|b69638a33e567354f4fac41b3bf24969647873d115a5685f645668f1871fb0d8|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|226735e6ba4895438080cd5a718c2bbc7f8aa44621a5bc28fd30765607ea9976|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|f64bd3b15585781982a514f8dcb7c51b86b289f86510f6d17cd67733331a7a5d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|048dc1289a2c36a8eb25e766575bd0654465205d62bdaf8843e3cb225e85f85f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|fc4fb042257719e2b92d3002ebd387b4f7726ec7b0ab7db52aabee0d2b5b3464|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e9a36d2711fab0b82f0acd87702ffe65cca59b08b70f44f8558058fdc9c573f7|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|cee929ea05bf6d4212d1f50b1421f61cd8e5e9f9e7b91d6fa164c2538b4794fa|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|ce3eded77e860bd9ef0b36804ee3846470e138533bc216999f80730f184f86b6|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|1c06c8c21f354f653af900c3826ea2140bc8868fab08fb64f669a7570485f2f5|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|840784deb77b8271ec247b155af424c8d38b9bb5fd1a9afaea0fc66388222cee|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|4932191fe750cc869f9529abff6c7c70b57e0fa4cff33fa31ac8f7bd30d84b8a|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|081fcc13da906e1c57d97fdc75e8daf714109d9e64ee45a5abd704f276e8836e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|0a4ecb0e697a7378f94aa583f7832fa78290d6141bb704b0da1a560ce4f872f1|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|9dc94478cc8afc23b414242fecd7246dba7d3fa0a6eea3a50e96fe7ff1b85623|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
-								"SL.eslint.Highlights.|87add5bf0ed125d017c5e3e8557ec5d46dffcd9020f7cc88302da6263f446289|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|ce8ddc68210b2b8c1c00954b87575848c8e054df8200606e7e57b3c8963f267d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|4bb40934c55fa16e16ed6a1ff56ff32c1c55630b3136f650b2e20b9fe3c1332a|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|b6760d515755e421d42d8045835b0c92ee5fd6009f8bcca6fb086c0ee0eda619|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|25dbefdecc45e3f8fc9edae281c892529159b1e973a1944ad7b747294b343b22|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|62104dfda1b932d007669882c6caca9853ec34d815c376ed4994f7328a782a3a|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|89605d958414b5a94f35be87f6cf03ca798fd94f2dbf2d3f44e0300bdcfac816|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|96c7e1dc816fdce8b2a7f3cabbb0fd046f1e0e2d67fdb3076df079218ca2c82f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|21f05c7f6b05b19c75d0092d56822c6208ed469f50e0250e9ac0cab3a345a961|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|c6452f7fa53046135e5e744af9e88d0002f06716961820741f08be82b3dd33db|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|a460e3b7cfe01fad9859f9c0e24e2439ac3e386569b986e52c30b06c7ca5b940|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|51f5b53fda1bc17b7cb9e9d7ab4dc84e2016fb0dc2599f7217821e613be09cee|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|0db8939ae1aa84306e6b2e5004df526f715f8d84a9b3e67ba4dce3a83f3bfd95|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|eae7f0ba9d0514528c1d6fd36c7c80df8417811db0033eed8327228ff69cfdab|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|17e1d700e0788a5f30d7e8e029eac30877a02035e145177e785e82adc1fcfacd|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|5482a8311b140831d2fc5734238739f405d3d4434a8b44ae08e7905af43a6890|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|9a090a11c3692eaef31fa0a50940703d4e51ddf209925d8caf665fe59366212c|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|899be4b1e9066d3f083756426f8c803158c7859bd10df92aa7124a7e5b669e86|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|604c5fed5fb8e273b82f4d7662bfc70f30f793fbb8d539f1bf15af202902c4c8|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|efc8d5fabdca4df36b28a254ddd91f7791046e7dac9b3e311558e4d774e63104|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|26cbe694e168dfcfd1ba56daec4bdc0aeb231dd449e824cd577671a05ca6c94d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e93485fb61701b14cc552cedf51cb0bc548247f91e013ccb3429f889154c67a7|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|aac0e5b582ea72cf2160c6a368a7234589f5b0a94eb98d862562105842a55a4d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e50bc4aeb43b3efce8703e52b0ed72e950311621c95f0f0edd04decb5c3963f3|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|fd47ab663354cc0613e3e59049dd571ad3ab2d7d068fd553a0635dc34b4210ad|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|0722b5deab8e8833e61946a746366335eca2cef75810e5336f9073bcf27b4e3c|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|5000c6d9c18feb3ffa57bbb82bc63450ca5182aa522025ce4b46b92a31e8018a|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|beb7c7e573da67811dc38a39ff9809209d944620e383360a9608d08819c49cba|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|2b90592c869fd1515cda5aec08609aaca68a37c7ae9119ba1835ebcfca0c77bd|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|eb065242a706b9ca71f828ee8b27cd7789b96cff5a6bb8995663fd605bd9db38|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|d7410ec29884aeab86863eb71b31751952912221123ce945c122a33d48289e01|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|f247f40c61a656e1a68539564ca268dd01624291145935be50e1beafe1e8252e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|3c007b42d5985b5fdb1195411fde7cf09ba21a578c1b5d62f667970a90a10f23|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|b97e83ce17cf38ab00d70967f862dbb43c5c65872042814c534d612a6598e7b5|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e98c38b3f5cd08590a297f6976567092442384284a6e7e41ea55c27fdb286adf|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|b49833d808eefbf6de0260db9ed1b1ac7a5e48730016d84158ce2c0fcdcb63d3|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|41b5bb50fd0e59dd4d2883aea037f8d21eb0302c6b8a499a21f3b66b126cc36c|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|ddfa6b8925f0dd07437c84b7ea143d6d3c54c69a4cf4ec2bf315e2690ebec3fb|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|323110a8e4a30f0231c93e5cebd74cc3b94fa7def0756892bd5b3602b79bc36e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|aa876c05a68e145aad00d66bf21a37975b0827ffed7970b49a943b9a8c96c2d6|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|8ed2b4ea641e1b27c2bc123a88d780cc664186bfd5ef98a878ec017096e34445|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|c8d59329361e810c28b45683db6eb05dbb1c00f40f9368488a69f8fb415f2960|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|d1f2be50b86c147bea94f8f3752e7fc65e42eb4a94a4a8c7eb8151907658fcc2|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|fa5f3ca260af115b170e0b121a515453995db2bbcab8fca951862c7957013d52|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|61ece9102f9cc6b31c005582bcbb6a163413f4eb9a54bae781a57ed73f403e6a|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|01e5681d194ecaf023feabdb8a0b9739bf0890391f41abb72f091afdd71b3f4e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|f8e7af1eb2f68a4473e02df862086a7d0f71a11928857babcd64f0a5108b8078|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|ed71c59338ee5a2510d1722a91fedcbbb903bff453c6c29679b841adba9f462a|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|8adf83f65bd636688cbaf298986637926178259aef34db0b8c025c6ab23b48bd|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|0f67a47cbb94029e97305e44527ff8db007e85b9d10673443dcc76fba8bf9a0b|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|303f86f1941f617228a1ac92f6a775f2ee469cb3e7c265c25e71df3c2032666a|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|b2835d095f8d6cba60f163cf222008d668a927f46d60b7dd6914136db98801dc|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|f43eef59112bb07c18db8c1048ad3c3e4c25c0142adcef4a5bac1a5f3f119660|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|ba5f3c30f474d0dca8d18e8c46d1f7d90e2de98a9bb232752a0344aec0fb8f13|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e26b44d559a026fb4e47488e83fdf1677d8aa6eb8755e47539e1a6e89ff1d384|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|9244a3ee72e6e40c1e135919e3b99253b9acd5bea9b647c2a3f3689132d97c93|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|6880008841666a72fcdd7b14842260958c6d39a781c568eaf07fc54042d4513f|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e4458cd4663f88c1c6e1d6a0aa27c022899da8e03300a394c0256b0f62379327|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|97931a8c9f9854f3ff0be94398e86c5af3c2e8d015ffe3843f93669d535b5d01|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|cbf0acf601baca947eccf07936f736dc349f21a0c3577865b6735070d8699e2c|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|bfc28e43e474ace4e3ef15826217f3a527165f1c3648040f3bfd41e45fb5b53d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|7d3f3e739b6f83c91899fdacb774fa80ebdc07b2e483d1ab1b1c392c5c0f6f9c|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|2c400f980380e0a17e87958aa76a5b9b7b513cffab1a5bacce28d1cf8997b49d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|1c13e5d40165ae363a794e202c574f395e4874d8b0d74dbc066b00e1a366db28|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|758eb8c8dc3231a979dc3d5a8805c61fd4759b0ae7ac26898517be6b48ce5501|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|c14c8d012b20b287deb81b457ee28691005f3762e59cce2b9fd3e12b26373f00|region.redish markup.error.sublime_linter|32"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1260.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/Components/Gallery.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 446,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								305,
-								305
-							]
-						],
-						"settings":
-						{
-							"SL.355.region_keys":
-							[
-								"SL.eslint.Highlights.|d4638cc0382207394f13bf9d93beda8e5035c6e42f7daf5582560e84e097cd14|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|9c5a7b01c402a060acc2129d2136c3976a086d05520c8686e6f97c4522712e10|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|a83d62ecd4789dd9c858ed90acbd7fa968a5bd649e4fcc63c3656103dc090522|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|b24132f02599b02654bb07a43fd03629db289d5b0916d4bb51e00f420fa0583f|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
-								"SL.eslint.Highlights.|b494362eed59c68f1dc07248e6dcb7dbb2303eeb8c688c9d5325f691bd127f87|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|18a41d663d8a61b450292086153b80d43a1b1ce6f758dc219224106303a33dd7|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|a4fb3c6417dbab46bbbc66410a7d21122a9f6704da5ca3797690285ba8308509|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|30ba16c2631ce1579300c63a4865592c145ff1b8bc73b09b49c9ace9306af62b|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|9fa59e3c339b97def3328771ba1ac2ed65b55fa33332c94ebfe123fd82229220|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|bdb3f8c442fba1bedf387f8f18f4b2ce8c248a32e95058c96821503b3329b474|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "src/Components/NoImages.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 153,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								120,
-								120
-							]
-						],
-						"settings":
-						{
-							"SL.421.region_keys":
-							[
-								"SL.eslint.Highlights.|7c0dd70eb21772b035d5da3760292a67c3a9954f5189f6b0e679fd58dd75dcbd|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
-								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|9ad554b2e8a7f68fe7744ea2e6a957adb0ff67ea90c5102adc8bd460e76357f8|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|968a68edc5f482bb928e26a49e455380e0e18954bb9e68eb8b823e18952a6b80|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|0df970e61f583ecb93ef79f47873d08f468fad0ff9ad8fb78f2baeee379ec641|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|842be86247e489b52c916af53484e6c5a0f917e1fc92af96f49e2756061ee68c|region.redish markup.error.sublime_linter|32"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -687,42 +435,33 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "src/Components/Gallery_item.js",
+					"buffer": 4,
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 368,
+						"buffer_size": 142,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								310,
-								310
+								45,
+								45
 							]
 						],
 						"settings":
 						{
-							"SL.374.region_keys":
-							[
-								"SL.eslint.Highlights.|74663ab5fda5b5edff981545aceaa756d1e9abbef3fe124724ab1d74216aa71e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|773c77715de17be084311bc9a4a62c07446f113d4b8d2810ca97eb90a1dd477f|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
-								"SL.eslint.Highlights.|d3acb403fced505de4f582f50dfb8709952f4b45fa6ba37bad098134ecf1695d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e785f39d324b6bee3d360bb6fab40c3eb974c976696ed301eb5a1cc8778a3f99|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
